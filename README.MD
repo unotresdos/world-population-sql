@@ -17,4 +17,4 @@ You’ll work with a dataset of world population by country data from recent yea
 ## Project Files
 
 [db.sqlite](https://github.com/unotresdos/world-population-sql/blob/master/db.sqlite)  - Database with population_years table
-[queries_population.sql](https://github.com/unotresdos/world-population-sql/blob/master/queries_population.sql) - SQL queries for the 
+[queries_population.sql](https://github.com/unotresdos/world-population-sql/blob/master/queries_population.sql) - SQL queries for the project 
