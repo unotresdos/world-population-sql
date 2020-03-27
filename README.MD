@@ -14,3 +14,7 @@ You’ll work with a dataset of world population by country data from recent yea
  5.  How many countries in this dataset have the word “Islands” in their name?
  6. What is the difference in population between 2000 and 2010 in `Indonesia`?
 
+## Project Files
+
+[db.sqlite](https://github.com/unotresdos/world-population-sql/blob/master/db.sqlite)  - Database with population_years table
+[queries_population.sql](https://github.com/unotresdos/world-population-sql/blob/master/queries_population.sql) - SQL queries for the 
